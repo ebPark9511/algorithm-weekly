@@ -1,8 +1,10 @@
 # 알고리즘 문제 리스트
 
 # 7.26
-* [Leetcode : Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)
-* [Leetcode : Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+|풀이여부|문제|나의소스코드|
+|:---:|:---|:---:|
+|🙆‍♂️| [Leetcode : Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)| [367_Valid_Perfect_Square.py](completion_list/210726/367_Valid_Perfect_Square.py)|
+|🙆‍♂️| [Leetcode : Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [54_Spiral_Matrix.py](completion_list/210726/54_Spiral_Matrix.py)|
 
 # 7.20
 * [Leetcode : Ransom Note](https://leetcode.com/problems/ransom-note/)
