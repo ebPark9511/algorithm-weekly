@@ -3,8 +3,8 @@
 # 7.26
 |풀이여부|문제|나의소스코드|
 |:---:|:---|:---:|
-|🙆‍♂️| [Leetcode : Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)| [367_Valid_Perfect_Square.py](completion_list/210726/367_Valid_Perfect_Square.py)|
-|🙆‍♂️| [Leetcode : Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [54_Spiral_Matrix.py](completion_list/210726/54_Spiral_Matrix.py)|
+|🙆‍♂️| [Leetcode : Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)| [367_Valid_Perfect_Square.py](completion_list/210726/367_Valid_Perfect_Square.py)<br>[367_Valid_Perfect_Square.swift](completion_list/210726/367_Valid_Perfect_Square.swift)|
+|🙆‍♂️| [Leetcode : Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [54_Spiral_Matrix.py](completion_list/210726/54_Spiral_Matrix.py)<br>[54_Spiral_Matrix.swift](completion_list/210726/54_Spiral_Matrix.swift)|
 
 # 7.20
 * [Leetcode : Ransom Note](https://leetcode.com/problems/ransom-note/)
