@@ -1,8 +1,11 @@
 # 알고리즘 문제 리스트
 
 # 8.2
-* [Leetcode : Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
-* [Leetcode : Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
+|풀이여부|문제|나의소스코드|
+|:---:|:---|:---:|
+|🙆‍♂️| [Leetcode : Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)| [367_Valid_Perfect_Square.py](completion_list/210802/409_Longest_Palindrome.py)|
+| 🙅🏻‍♂️| [Leetcode : Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)| - |
+
 
 # 7.26
 |풀이여부|문제|나의소스코드|
