@@ -1,5 +1,10 @@
 # 알고리즘 문제 리스트
 
+# 8.9
+* [Leetcode : Arranging Coins](https://leetcode.com/problems/arranging-coins/)
+* [Leetcode : Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+* [Leetcode : Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)
+
 # 8.2
 |풀이여부|문제|나의소스코드|
 |:---:|:---|:---:|
