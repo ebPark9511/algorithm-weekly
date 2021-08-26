@@ -11,8 +11,8 @@
 # 8.16
 |풀이여부|문제|나의소스코드|
 |:---:|:---|:---:|
-| ❌ | [Leetcode : Design HashMap](https://leetcode.com/problems/design-hashmap/) |  -  |
-| ❌ | [Leetcode : Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) |  -  |
+| ⭕️ | [Leetcode : Design HashMap](https://leetcode.com/problems/design-hashmap/) |   [706_Design_HashMap.py](completion_list/210816/706_Design_HashMap.py)   |
+| ⭕️ | [Leetcode : Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) |  [307_Range_Sum_Query_Mutable.py](completion_list/210816/307_Range_Sum_Query_Mutable.py)  |
 | ❌ | [Leetcode : Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | - |
 
 # 8.9
